@@ -1,0 +1,12 @@
+qq密码：wu123456.
+3086641992密码：wu123456789.
+github：zjwyx123456.
+向远程仓库推送
+git init
+git add .
+git commit -m "init"
+git remote add origin https://github.com/zjwyx/python.git
+git push origin maxter
+
+电脑:联想拯救者y7000,16G 256+1T 1650  钱：6300 6400
+6G 256+1T 1650ti  钱：6800 7000 贵两千
